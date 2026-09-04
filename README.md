@@ -17,3 +17,4 @@ The sum_values() function takes a list as input and returns the total sum of all
 DISTANCE FROM ZERO FUNCTION
 Distance from zero function added, calls function subtract to return the absolute distance between x and 0
 
+FORKED CHANGE FROM KIR
