@@ -7,3 +7,6 @@ The multiply(a,b) function computes the product of a and b using the variables g
 SUBTRACT FUNCTION
 The subtract function takes 2 arguments and returns the difference, subtracting the second from the first.
 The function will return an error when calling it with less or more than 2 arguments.
+
+SUMMATION FUNCTION
+The sum_values() function takes a list as input and returns the total sum of all numbers in said list by repeatedly calling the add() function.
