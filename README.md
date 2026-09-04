@@ -1,1 +1,2 @@
 print("hello world")
+The multiply(a,b) function computes the product of a and b using the variables given above. It could break if the user tried to print the final product by calling 3 variables since the function is programmed to only handle 2.
