@@ -10,3 +10,5 @@ The function will return an error when calling it with less or more than 2 argum
 
 SUMMATION FUNCTION
 The sum_values() function takes a list as input and returns the total sum of all numbers in said list by repeatedly calling the add() function.
+Distance from zero function added, calls function subtract to return the absolute distance between x and 0
+
